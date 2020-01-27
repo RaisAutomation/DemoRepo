@@ -12,3 +12,5 @@ When User clicks on Search box
 And Enter Product Name
 And Hit Search Icon
 Then Search result will appear
+
+
