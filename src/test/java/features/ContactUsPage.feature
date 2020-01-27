@@ -1,4 +1,4 @@
-Feature: Contact Us page
+Feature: Campus Component Contact Us page
 
 Scenario: Contact us page Test
 Given user is already in contact us page
